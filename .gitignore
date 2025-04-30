@@ -1,0 +1,13 @@
+# Virtual environments
+
+.venv/
+colab_venv/
+
+# Corpus data which can't be shared publicly
+
+data/
+translated*.txt
+
+# Survey results, contain sensitive information
+
+/Master+Students*/

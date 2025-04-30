@@ -1,0 +1,4742 @@
+[[AdvancedFormat]]
+
+[[Block:Background Information]]
+
+[[Question:TE:SingleLine]]
+You will be asked to evaluate 12 teacher responses in an English learning dialogue, given a preceding fragment of their conversation.<br>
+            Students' native languages were Spanish and Catalan, and those languages are sometimes used in the conversations.<br>
+
+            First, we would like to ask you some background questions.<br><br>
+
+            What is your native language?
+
+[[Question:MC:SingleAnswer:Vertical]]
+What is your English proficiency level?
+[[Choices]]
+Beginner
+Intermediate
+Advanced
+Fluent
+
+[[Question:TE:SingleLine]]
+If known, please report your CEFR English level (e.g. B1, C1).
+
+[[Question:MC:SingleAnswer:Vertical]]
+What is your Spanish proficiency level?
+[[Choices]]
+Beginner
+Intermediate
+Advanced
+Fluent
+
+[[Question:TE:SingleLine]]
+If known, please report your CEFR Spanish level (e.g. B1, C1).
+
+[[Question:MC:SingleAnswer:Vertical]]
+What is your Catalan proficiency level?
+[[Choices]]
+Beginner
+Intermediate
+Advanced
+Fluent
+
+[[Question:TE:SingleLine]]
+If known, please report your CEFR Catalan level (e.g. B1, C1).
+
+[[Question:MC:SingleAnswer:Vertical]]
+What is your gender?
+[[Choices]]
+Male
+Female
+Other
+Prefer not to say
+
+[[Question:MC:SingleAnswer:Horizontal]]
+When learning a second language, do you like when the teacher uses your native language in the dialogue?
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Block:Group 1, sample 1]]
+
+[[ED:Group_1_Topic_1:topics]]
+
+[[ED:Group_1_Language_1:tutor-es]]
+
+[[Question:MC:SingleAnswer:Horizontal]]
+Please read the following fragment of a dialogue between a student learning English as a second language and a teacher. The last teacher response, marked with a bold font, replies to the student's utterance directly above it. The tutor may or may not have used the student's mother tongue in the response. You are asked to evaluate this response.<br><br>
+
+<b>Dialogue Fragment:</b><br>
+STUDENT: old<br>
+TUTOR: how old is he<br>
+STUDENT: hm two years<br>
+TUTOR: uhhuh so he's eighteen<br>
+STUDENT: yes<br>
+<b>Tutor: té divuit anys</b><br><br>
+
+The teacher's response is clear.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The tutor's intent in the last response is:
+[[Choices]]
+Translation
+Clarification
+Acknowlegment
+Other
+
+[[Question:TE:Essay]]
+If you chose 'Other', please say what it was.
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The response seems normal in the context of this conversation.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The teacher's response would help me learn English.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:MC:SingleAnswer:Horizontal]]
+I would like my teacher to use responses like this.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:TE:Essay]]
+How would you improve this response?
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The tutor's use of student's mother tongue is helpful and effective.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:TE:Essay]]
+How would you improve the tutor's use of multilinguality?
+
+[[Block:Group 1, sample 2]]
+
+[[ED:Group_1_Topic_2:backchannel]]
+
+[[ED:Group_1_Language_2:tutor-es]]
+
+[[Question:MC:SingleAnswer:Horizontal]]
+Please read the following fragment of a dialogue between a student learning English as a second language and a teacher. The last teacher response, marked with a bold font, replies to the student's utterance directly above it. The tutor may or may not have used the student's mother tongue in the response. You are asked to evaluate this response.<br><br>
+
+<b>Dialogue Fragment:</b><br>
+STUDENT: sí<br>
+TUTOR: em pensava que començàveu a Les nou que bé no okay and in the afternoon in the afternoon what time do you leave school<br>
+STUDENT: hm a eight o'clock bueno pots repetir<br>
+TUTOR: yes in the afternoon what time do you leave school<br>
+STUDENT: ah ah vale a les<br>
+<b>Tutor: Tu què has entès</b><br><br>
+
+The teacher's response is clear.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The tutor's intent in the last response is:
+[[Choices]]
+Translation
+Clarification
+Acknowlegment
+Other
+
+[[Question:TE:Essay]]
+If you chose 'Other', please say what it was.
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The response seems normal in the context of this conversation.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The teacher's response would help me learn English.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:MC:SingleAnswer:Horizontal]]
+I would like my teacher to use responses like this.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:TE:Essay]]
+How would you improve this response?
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The tutor's use of student's mother tongue is helpful and effective.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:TE:Essay]]
+How would you improve the tutor's use of multilinguality?
+
+[[Block:Group 1, sample 3]]
+
+[[ED:Group_1_Topic_3:topics]]
+
+[[ED:Group_1_Language_3:tutor-en]]
+
+[[Question:MC:SingleAnswer:Horizontal]]
+Please read the following fragment of a dialogue between a student learning English as a second language and a teacher. The last teacher response, marked with a bold font, replies to the student's utterance directly above it. The tutor may or may not have used the student's mother tongue in the response. You are asked to evaluate this response.<br><br>
+
+<b>Dialogue Fragment:</b><br>
+STUDENT: sí<br>
+TUTOR: okay now hm which language do you speak with your parents which language Catalan spanish<br>
+STUDENT: Catalan<br>
+TUTOR: Catalan and with your mother Catalan<br>
+STUDENT: yes<br>
+<b>Tutor: and with your father</b><br><br>
+
+The teacher's response is clear.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The tutor's intent in the last response is:
+[[Choices]]
+Translation
+Clarification
+Acknowlegment
+Other
+
+[[Question:TE:Essay]]
+If you chose 'Other', please say what it was.
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The response seems normal in the context of this conversation.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The teacher's response would help me learn English.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:MC:SingleAnswer:Horizontal]]
+I would like my teacher to use responses like this.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:TE:Essay]]
+How would you improve this response?
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The tutor's use of English in the response is helpful and effective
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:TE:Essay]]
+How would you improve the tutor's use of multilinguality?
+
+[[Block:Group 1, sample 4]]
+
+[[ED:Group_1_Topic_4:backchannel]]
+
+[[ED:Group_1_Language_4:tutor-en]]
+
+[[Question:MC:SingleAnswer:Horizontal]]
+Please read the following fragment of a dialogue between a student learning English as a second language and a teacher. The last teacher response, marked with a bold font, replies to the student's utterance directly above it. The tutor may or may not have used the student's mother tongue in the response. You are asked to evaluate this response.<br><br>
+
+<b>Dialogue Fragment:</b><br>
+STUDENT: yes<br>
+TUTOR: your friends your teachers<br>
+STUDENT: yes friends<br>
+TUTOR: what time did you arrive here this morning<br>
+STUDENT: this morning<br>
+<b>Tutor: yes</b><br><br>
+
+The teacher's response is clear.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The tutor's intent in the last response is:
+[[Choices]]
+Translation
+Clarification
+Acknowlegment
+Other
+
+[[Question:TE:Essay]]
+If you chose 'Other', please say what it was.
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The response seems normal in the context of this conversation.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The teacher's response would help me learn English.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:MC:SingleAnswer:Horizontal]]
+I would like my teacher to use responses like this.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:TE:Essay]]
+How would you improve this response?
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The tutor's use of English in the response is helpful and effective
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:TE:Essay]]
+How would you improve the tutor's use of multilinguality?
+
+[[Block:Group 1, sample 5]]
+
+[[ED:Group_1_Topic_5:questions]]
+
+[[ED:Group_1_Language_5:tutor-en]]
+
+[[Question:MC:SingleAnswer:Horizontal]]
+Please read the following fragment of a dialogue between a student learning English as a second language and a teacher. The last teacher response, marked with a bold font, replies to the student's utterance directly above it. The tutor may or may not have used the student's mother tongue in the response. You are asked to evaluate this response.<br><br>
+
+<b>Dialogue Fragment:</b><br>
+STUDENT: a house<br>
+TUTOR: yes and what do you do at home<br>
+STUDENT: study in my room<br>
+TUTOR: okay and what else<br>
+STUDENT: walk my dog I ajudar no sé com es diu en anglès a la meva mare<br>
+<b>Tutor: okay ask me questions if you like about me ask me questions</b><br><br>
+
+The teacher's response is clear.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The tutor's intent in the last response is:
+[[Choices]]
+Translation
+Clarification
+Acknowlegment
+Other
+
+[[Question:TE:Essay]]
+If you chose 'Other', please say what it was.
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The response seems normal in the context of this conversation.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The teacher's response would help me learn English.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:MC:SingleAnswer:Horizontal]]
+I would like my teacher to use responses like this.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:TE:Essay]]
+How would you improve this response?
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The tutor's use of English in the response is helpful and effective
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:TE:Essay]]
+How would you improve the tutor's use of multilinguality?
+
+[[Block:Group 1, sample 6]]
+
+[[ED:Group_1_Topic_6:questions]]
+
+[[ED:Group_1_Language_6:tutor-en]]
+
+[[Question:MC:SingleAnswer:Horizontal]]
+Please read the following fragment of a dialogue between a student learning English as a second language and a teacher. The last teacher response, marked with a bold font, replies to the student's utterance directly above it. The tutor may or may not have used the student's mother tongue in the response. You are asked to evaluate this response.<br><br>
+
+<b>Dialogue Fragment:</b><br>
+STUDENT: and good<br>
+TUTOR: uhhuh<br>
+STUDENT: and RamonLlull<br>
+TUTOR: uhhuh<br>
+STUDENT: no no tant<br>
+<b>Tutor: you have got friends okay do you wanna ask me any questions</b><br><br>
+
+The teacher's response is clear.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The tutor's intent in the last response is:
+[[Choices]]
+Translation
+Clarification
+Acknowlegment
+Other
+
+[[Question:TE:Essay]]
+If you chose 'Other', please say what it was.
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The response seems normal in the context of this conversation.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The teacher's response would help me learn English.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:MC:SingleAnswer:Horizontal]]
+I would like my teacher to use responses like this.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:TE:Essay]]
+How would you improve this response?
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The tutor's use of English in the response is helpful and effective
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:TE:Essay]]
+How would you improve the tutor's use of multilinguality?
+
+[[Block:Group 1, sample 7]]
+
+[[ED:Group_1_Topic_7:topics]]
+
+[[ED:Group_1_Language_7:tutor-mixed]]
+
+[[Question:MC:SingleAnswer:Horizontal]]
+Please read the following fragment of a dialogue between a student learning English as a second language and a teacher. The last teacher response, marked with a bold font, replies to the student's utterance directly above it. The tutor may or may not have used the student's mother tongue in the response. You are asked to evaluate this response.<br><br>
+
+<b>Dialogue Fragment:</b><br>
+STUDENT: castellà<br>
+TUTOR: and where is Roberto<br>
+STUDENT: quin carrer<br>
+TUTOR: yes<br>
+STUDENT: ConsellDeCent entença<br>
+<b>Tutor: okay and where do you live where where is your house on vius tu</b><br><br>
+
+The teacher's response is clear.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The tutor's intent in the last response is:
+[[Choices]]
+Translation
+Clarification
+Acknowlegment
+Other
+
+[[Question:TE:Essay]]
+If you chose 'Other', please say what it was.
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The response seems normal in the context of this conversation.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The teacher's response would help me learn English.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:MC:SingleAnswer:Horizontal]]
+I would like my teacher to use responses like this.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:TE:Essay]]
+How would you improve this response?
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The tutor's use of student's mother tongue is helpful and effective.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:TE:Essay]]
+How would you improve the tutor's use of multilinguality?
+
+[[Block:Group 1, sample 8]]
+
+[[ED:Group_1_Topic_8:topics]]
+
+[[ED:Group_1_Language_8:tutor-en]]
+
+[[Question:MC:SingleAnswer:Horizontal]]
+Please read the following fragment of a dialogue between a student learning English as a second language and a teacher. The last teacher response, marked with a bold font, replies to the student's utterance directly above it. The tutor may or may not have used the student's mother tongue in the response. You are asked to evaluate this response.<br><br>
+
+<b>Dialogue Fragment:</b><br>
+STUDENT: sí<br>
+TUTOR: I see okay what time do you arrive here in the morning Clara<br>
+STUDENT: er a qué hora me levanto<br>
+TUTOR: no I repeat what time do you arrive here in the morning to the school<br>
+STUDENT: ah cuánto tardo<br>
+<b>Tutor: no what time</b><br><br>
+
+The teacher's response is clear.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The tutor's intent in the last response is:
+[[Choices]]
+Translation
+Clarification
+Acknowlegment
+Other
+
+[[Question:TE:Essay]]
+If you chose 'Other', please say what it was.
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The response seems normal in the context of this conversation.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The teacher's response would help me learn English.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:MC:SingleAnswer:Horizontal]]
+I would like my teacher to use responses like this.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:TE:Essay]]
+How would you improve this response?
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The tutor's use of English in the response is helpful and effective
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:TE:Essay]]
+How would you improve the tutor's use of multilinguality?
+
+[[Block:Group 1, sample 9]]
+
+[[ED:Group_1_Topic_9:questions]]
+
+[[ED:Group_1_Language_9:tutor-mixed]]
+
+[[Question:MC:SingleAnswer:Horizontal]]
+Please read the following fragment of a dialogue between a student learning English as a second language and a teacher. The last teacher response, marked with a bold font, replies to the student's utterance directly above it. The tutor may or may not have used the student's mother tongue in the response. You are asked to evaluate this response.<br><br>
+
+<b>Dialogue Fragment:</b><br>
+STUDENT: sí que per què feu això<br>
+TUTOR: yes we are studying estem estudiant hm how children es learn english com aprenen els nens langlès<br>
+STUDENT: ah<br>
+TUTOR: aps per per per poguer ensenyar millor eh perquè els nens aprenguin més do you have another question<br>
+STUDENT: no<br>
+<b>Tutor: no em vols demanar quants anys tinc</b><br><br>
+
+The teacher's response is clear.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The tutor's intent in the last response is:
+[[Choices]]
+Translation
+Clarification
+Acknowlegment
+Other
+
+[[Question:TE:Essay]]
+If you chose 'Other', please say what it was.
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The response seems normal in the context of this conversation.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The teacher's response would help me learn English.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:MC:SingleAnswer:Horizontal]]
+I would like my teacher to use responses like this.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:TE:Essay]]
+How would you improve this response?
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The tutor's use of student's mother tongue is helpful and effective.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:TE:Essay]]
+How would you improve the tutor's use of multilinguality?
+
+[[Block:Group 1, sample 10]]
+
+[[ED:Group_1_Topic_10:backchannel]]
+
+[[ED:Group_1_Language_10:tutor-mixed]]
+
+[[Question:MC:SingleAnswer:Horizontal]]
+Please read the following fragment of a dialogue between a student learning English as a second language and a teacher. The last teacher response, marked with a bold font, replies to the student's utterance directly above it. The tutor may or may not have used the student's mother tongue in the response. You are asked to evaluate this response.<br><br>
+
+<b>Dialogue Fragment:</b><br>
+STUDENT: I don't like english<br>
+TUTOR: you don't like english not here or in Saxon or<br>
+STUDENT: no nowhere<br>
+TUTOR: okay so hm why are you studying english in Saxon<br>
+STUDENT: because I I don't pass the english here<br>
+<b>Tutor: I see uhhuh you didn't pass it when in quart de eso</b><br><br>
+
+The teacher's response is clear.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The tutor's intent in the last response is:
+[[Choices]]
+Translation
+Clarification
+Acknowlegment
+Other
+
+[[Question:TE:Essay]]
+If you chose 'Other', please say what it was.
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The response seems normal in the context of this conversation.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The teacher's response would help me learn English.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:MC:SingleAnswer:Horizontal]]
+I would like my teacher to use responses like this.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:TE:Essay]]
+How would you improve this response?
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The tutor's use of student's mother tongue is helpful and effective.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:TE:Essay]]
+How would you improve the tutor's use of multilinguality?
+
+[[Block:Group 1, sample 11]]
+
+[[ED:Group_1_Topic_11:questions]]
+
+[[ED:Group_1_Language_11:tutor-mixed]]
+
+[[Question:MC:SingleAnswer:Horizontal]]
+Please read the following fragment of a dialogue between a student learning English as a second language and a teacher. The last teacher response, marked with a bold font, replies to the student's utterance directly above it. The tutor may or may not have used the student's mother tongue in the response. You are asked to evaluate this response.<br><br>
+
+<b>Dialogue Fragment:</b><br>
+STUDENT: sí<br>
+TUTOR: only one bed so you don't have an extra one for friends<br>
+STUDENT: hm<br>
+TUTOR: no tens Un llit de sobres per els amics<br>
+STUDENT: no és que es converteix en dos<br>
+<b>Tutor: ah okay right listen would you like to ask me a question because I'm asking all these questions the estic fent moltes preguntes Jo tot el temps vols ferme a Mi alguna pregunta vinga va fesme alguna pregunta a ve u re si la sé contestar</b><br><br>
+
+The teacher's response is clear.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The tutor's intent in the last response is:
+[[Choices]]
+Translation
+Clarification
+Acknowlegment
+Other
+
+[[Question:TE:Essay]]
+If you chose 'Other', please say what it was.
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The response seems normal in the context of this conversation.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The teacher's response would help me learn English.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:MC:SingleAnswer:Horizontal]]
+I would like my teacher to use responses like this.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:TE:Essay]]
+How would you improve this response?
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The tutor's use of student's mother tongue is helpful and effective.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:TE:Essay]]
+How would you improve the tutor's use of multilinguality?
+
+[[Block:Group 1, sample 12]]
+
+[[ED:Group_1_Topic_12:backchannel]]
+
+[[ED:Group_1_Language_12:tutor-en]]
+
+[[Question:MC:SingleAnswer:Horizontal]]
+Please read the following fragment of a dialogue between a student learning English as a second language and a teacher. The last teacher response, marked with a bold font, replies to the student's utterance directly above it. The tutor may or may not have used the student's mother tongue in the response. You are asked to evaluate this response.<br><br>
+
+<b>Dialogue Fragment:</b><br>
+STUDENT: okay the most of the people go<br>
+TUTOR: night<br>
+STUDENT: night<br>
+TUTOR: but but you'll see when you are old you will say my mother was right okay so you go to the disco right<br>
+STUDENT: hm and bueno the sundays I make homework<br>
+<b>Tutor: yeah okay</b><br><br>
+
+The teacher's response is clear.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The tutor's intent in the last response is:
+[[Choices]]
+Translation
+Clarification
+Acknowlegment
+Other
+
+[[Question:TE:Essay]]
+If you chose 'Other', please say what it was.
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The response seems normal in the context of this conversation.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The teacher's response would help me learn English.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:MC:SingleAnswer:Horizontal]]
+I would like my teacher to use responses like this.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:TE:Essay]]
+How would you improve this response?
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The tutor's use of English in the response is helpful and effective
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:TE:Essay]]
+How would you improve the tutor's use of multilinguality?
+
+[[Block:Group 2, sample 1]]
+
+[[ED:Group_2_Topic_1:backchannel]]
+
+[[ED:Group_2_Language_1:tutor-es]]
+
+[[Question:MC:SingleAnswer:Horizontal]]
+Please read the following fragment of a dialogue between a student learning English as a second language and a teacher. The last teacher response, marked with a bold font, replies to the student's utterance directly above it. The tutor may or may not have used the student's mother tongue in the response. You are asked to evaluate this response.<br><br>
+
+<b>Dialogue Fragment:</b><br>
+STUDENT: sí això<br>
+TUTOR: table<br>
+STUDENT: table two table it's right estantería<br>
+TUTOR: uhhuh<br>
+STUDENT: right hm armari<br>
+<b>Tutor: armari</b><br><br>
+
+The teacher's response is clear.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The tutor's intent in the last response is:
+[[Choices]]
+Translation
+Clarification
+Acknowlegment
+Other
+
+[[Question:TE:Essay]]
+If you chose 'Other', please say what it was.
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The response seems normal in the context of this conversation.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The teacher's response would help me learn English.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:MC:SingleAnswer:Horizontal]]
+I would like my teacher to use responses like this.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:TE:Essay]]
+How would you improve this response?
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The tutor's use of student's mother tongue is helpful and effective.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:TE:Essay]]
+How would you improve the tutor's use of multilinguality?
+
+[[Block:Group 2, sample 2]]
+
+[[ED:Group_2_Topic_2:questions]]
+
+[[ED:Group_2_Language_2:tutor-en]]
+
+[[Question:MC:SingleAnswer:Horizontal]]
+Please read the following fragment of a dialogue between a student learning English as a second language and a teacher. The last teacher response, marked with a bold font, replies to the student's utterance directly above it. The tutor may or may not have used the student's mother tongue in the response. You are asked to evaluate this response.<br><br>
+
+<b>Dialogue Fragment:</b><br>
+STUDENT: yes<br>
+TUTOR: yes okay and listen Richard would you like to ask me any questions you ask me questions<br>
+STUDENT: si Jo the entès<br>
+TUTOR: no if you wanna ask me questions el que testic demanant Jo tot el temps si vols ferme a Mi preguntes<br>
+STUDENT: ah<br>
+<b>Tutor: yes come on ask me one question please</b><br><br>
+
+The teacher's response is clear.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The tutor's intent in the last response is:
+[[Choices]]
+Translation
+Clarification
+Acknowlegment
+Other
+
+[[Question:TE:Essay]]
+If you chose 'Other', please say what it was.
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The response seems normal in the context of this conversation.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The teacher's response would help me learn English.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:MC:SingleAnswer:Horizontal]]
+I would like my teacher to use responses like this.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:TE:Essay]]
+How would you improve this response?
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The tutor's use of English in the response is helpful and effective
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:TE:Essay]]
+How would you improve the tutor's use of multilinguality?
+
+[[Block:Group 2, sample 3]]
+
+[[ED:Group_2_Topic_3:backchannel]]
+
+[[ED:Group_2_Language_3:tutor-mixed]]
+
+[[Question:MC:SingleAnswer:Horizontal]]
+Please read the following fragment of a dialogue between a student learning English as a second language and a teacher. The last teacher response, marked with a bold font, replies to the student's utterance directly above it. The tutor may or may not have used the student's mother tongue in the response. You are asked to evaluate this response.<br><br>
+
+<b>Dialogue Fragment:</b><br>
+STUDENT: one sister<br>
+TUTOR: okay<br>
+STUDENT: is she in AusiasMarch as well yes<br>
+TUTOR: uhhuh okay how old is she<br>
+STUDENT: twenty twenty years<br>
+<b>Tutor: twenty y estudia aquí en el lausiasmarch</b><br><br>
+
+The teacher's response is clear.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The tutor's intent in the last response is:
+[[Choices]]
+Translation
+Clarification
+Acknowlegment
+Other
+
+[[Question:TE:Essay]]
+If you chose 'Other', please say what it was.
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The response seems normal in the context of this conversation.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The teacher's response would help me learn English.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:MC:SingleAnswer:Horizontal]]
+I would like my teacher to use responses like this.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:TE:Essay]]
+How would you improve this response?
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The tutor's use of student's mother tongue is helpful and effective.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:TE:Essay]]
+How would you improve the tutor's use of multilinguality?
+
+[[Block:Group 2, sample 4]]
+
+[[ED:Group_2_Topic_4:questions]]
+
+[[ED:Group_2_Language_4:tutor-mixed]]
+
+[[Question:MC:SingleAnswer:Horizontal]]
+Please read the following fragment of a dialogue between a student learning English as a second language and a teacher. The last teacher response, marked with a bold font, replies to the student's utterance directly above it. The tutor may or may not have used the student's mother tongue in the response. You are asked to evaluate this response.<br><br>
+
+<b>Dialogue Fragment:</b><br>
+STUDENT: the sister<br>
+TUTOR: just for your sister now would you like to ask me questions ask me questions now you you ask me what's your name you ask me ara em pots tu fer preguntes a mi<br>
+STUDENT: ah what's your name<br>
+TUTOR: my name is MariaRosa<br>
+STUDENT: how old are you<br>
+<b>Tutor: I am forty five one more question ask me coses que tagradaria saber de Mi no no no more questions em pots preguntar si hi ha alguna cosa que magradi o que no magradi</b><br><br>
+
+The teacher's response is clear.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The tutor's intent in the last response is:
+[[Choices]]
+Translation
+Clarification
+Acknowlegment
+Other
+
+[[Question:TE:Essay]]
+If you chose 'Other', please say what it was.
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The response seems normal in the context of this conversation.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The teacher's response would help me learn English.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:MC:SingleAnswer:Horizontal]]
+I would like my teacher to use responses like this.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:TE:Essay]]
+How would you improve this response?
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The tutor's use of student's mother tongue is helpful and effective.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:TE:Essay]]
+How would you improve the tutor's use of multilinguality?
+
+[[Block:Group 2, sample 5]]
+
+[[ED:Group_2_Topic_5:backchannel]]
+
+[[ED:Group_2_Language_5:tutor-en]]
+
+[[Question:MC:SingleAnswer:Horizontal]]
+Please read the following fragment of a dialogue between a student learning English as a second language and a teacher. The last teacher response, marked with a bold font, replies to the student's utterance directly above it. The tutor may or may not have used the student's mother tongue in the response. You are asked to evaluate this response.<br><br>
+
+<b>Dialogue Fragment:</b><br>
+STUDENT: and do you like this school<br>
+TUTOR: hm more or less<br>
+STUDENT: hm hm what do you like about it<br>
+TUTOR: hm I like the no sé<br>
+STUDENT: no sé qué me gusta<br>
+<b>Tutor: what don't you like</b><br><br>
+
+The teacher's response is clear.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The tutor's intent in the last response is:
+[[Choices]]
+Translation
+Clarification
+Acknowlegment
+Other
+
+[[Question:TE:Essay]]
+If you chose 'Other', please say what it was.
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The response seems normal in the context of this conversation.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The teacher's response would help me learn English.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:MC:SingleAnswer:Horizontal]]
+I would like my teacher to use responses like this.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:TE:Essay]]
+How would you improve this response?
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The tutor's use of English in the response is helpful and effective
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:TE:Essay]]
+How would you improve the tutor's use of multilinguality?
+
+[[Block:Group 2, sample 6]]
+
+[[ED:Group_2_Topic_6:topics]]
+
+[[ED:Group_2_Language_6:tutor-mixed]]
+
+[[Question:MC:SingleAnswer:Horizontal]]
+Please read the following fragment of a dialogue between a student learning English as a second language and a teacher. The last teacher response, marked with a bold font, replies to the student's utterance directly above it. The tutor may or may not have used the student's mother tongue in the response. You are asked to evaluate this response.<br><br>
+
+<b>Dialogue Fragment:</b><br>
+STUDENT: sí<br>
+TUTOR: yes of course would you like to ask me a question I am making all these questions now would you like to ask me a question<br>
+STUDENT: que et fagi Una pregunta<br>
+TUTOR: sí perquè Jo et faig preguntes tot el temps<br>
+STUDENT: hm<br>
+<b>Tutor: mentres te la penses et faré Jo un a altra no has fet Mai anglès fora de classe vale now</b><br><br>
+
+The teacher's response is clear.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The tutor's intent in the last response is:
+[[Choices]]
+Translation
+Clarification
+Acknowlegment
+Other
+
+[[Question:TE:Essay]]
+If you chose 'Other', please say what it was.
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The response seems normal in the context of this conversation.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The teacher's response would help me learn English.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:MC:SingleAnswer:Horizontal]]
+I would like my teacher to use responses like this.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:TE:Essay]]
+How would you improve this response?
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The tutor's use of student's mother tongue is helpful and effective.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:TE:Essay]]
+How would you improve the tutor's use of multilinguality?
+
+[[Block:Group 2, sample 7]]
+
+[[ED:Group_2_Topic_7:questions]]
+
+[[ED:Group_2_Language_7:tutor-en]]
+
+[[Question:MC:SingleAnswer:Horizontal]]
+Please read the following fragment of a dialogue between a student learning English as a second language and a teacher. The last teacher response, marked with a bold font, replies to the student's utterance directly above it. The tutor may or may not have used the student's mother tongue in the response. You are asked to evaluate this response.<br><br>
+
+<b>Dialogue Fragment:</b><br>
+STUDENT: is the is the bed hm is the window and is the table<br>
+TUTOR: is it a small table or a big table<br>
+STUDENT: big table<br>
+TUTOR: and what color is it is it white brown<br>
+STUDENT: madera<br>
+<b>Tutor: okay okay hm now would you like to ask me any questions</b><br><br>
+
+The teacher's response is clear.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The tutor's intent in the last response is:
+[[Choices]]
+Translation
+Clarification
+Acknowlegment
+Other
+
+[[Question:TE:Essay]]
+If you chose 'Other', please say what it was.
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The response seems normal in the context of this conversation.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The teacher's response would help me learn English.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:MC:SingleAnswer:Horizontal]]
+I would like my teacher to use responses like this.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:TE:Essay]]
+How would you improve this response?
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The tutor's use of English in the response is helpful and effective
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:TE:Essay]]
+How would you improve the tutor's use of multilinguality?
+
+[[Block:Group 2, sample 8]]
+
+[[ED:Group_2_Topic_8:questions]]
+
+[[ED:Group_2_Language_8:tutor-mixed]]
+
+[[Question:MC:SingleAnswer:Horizontal]]
+Please read the following fragment of a dialogue between a student learning English as a second language and a teacher. The last teacher response, marked with a bold font, replies to the student's utterance directly above it. The tutor may or may not have used the student's mother tongue in the response. You are asked to evaluate this response.<br><br>
+
+<b>Dialogue Fragment:</b><br>
+STUDENT: en inglés<br>
+TUTOR: sí hombre claro<br>
+STUDENT: hm how old are you<br>
+TUTOR: I am thirty six years old<br>
+STUDENT: cuántas preguntas tengo que hacer las que quiera<br>
+<b>Tutor: no las que quieras sí quieres preguntarme algo más</b><br><br>
+
+The teacher's response is clear.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The tutor's intent in the last response is:
+[[Choices]]
+Translation
+Clarification
+Acknowlegment
+Other
+
+[[Question:TE:Essay]]
+If you chose 'Other', please say what it was.
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The response seems normal in the context of this conversation.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The teacher's response would help me learn English.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:MC:SingleAnswer:Horizontal]]
+I would like my teacher to use responses like this.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:TE:Essay]]
+How would you improve this response?
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The tutor's use of student's mother tongue is helpful and effective.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:TE:Essay]]
+How would you improve the tutor's use of multilinguality?
+
+[[Block:Group 2, sample 9]]
+
+[[ED:Group_2_Topic_9:topics]]
+
+[[ED:Group_2_Language_9:tutor-es]]
+
+[[Question:MC:SingleAnswer:Horizontal]]
+Please read the following fragment of a dialogue between a student learning English as a second language and a teacher. The last teacher response, marked with a bold font, replies to the student's utterance directly above it. The tutor may or may not have used the student's mother tongue in the response. You are asked to evaluate this response.<br><br>
+
+<b>Dialogue Fragment:</b><br>
+STUDENT: sí in my room two beds<br>
+TUTOR: okay and hm now would you like to ask me any questions you ask me questions em pots fer Les preguntes que vulguis a Mi vols saber coses de Mi<br>
+STUDENT: hm and you live<br>
+TUTOR: hm I live in Barcelona in Nicolau street in lescorts<br>
+STUDENT: hm espera<br>
+<b>Tutor: què com te surti eh Jo lendevino</b><br><br>
+
+The teacher's response is clear.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The tutor's intent in the last response is:
+[[Choices]]
+Translation
+Clarification
+Acknowlegment
+Other
+
+[[Question:TE:Essay]]
+If you chose 'Other', please say what it was.
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The response seems normal in the context of this conversation.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The teacher's response would help me learn English.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:MC:SingleAnswer:Horizontal]]
+I would like my teacher to use responses like this.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:TE:Essay]]
+How would you improve this response?
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The tutor's use of student's mother tongue is helpful and effective.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:TE:Essay]]
+How would you improve the tutor's use of multilinguality?
+
+[[Block:Group 2, sample 10]]
+
+[[ED:Group_2_Topic_10:backchannel]]
+
+[[ED:Group_2_Language_10:tutor-en]]
+
+[[Question:MC:SingleAnswer:Horizontal]]
+Please read the following fragment of a dialogue between a student learning English as a second language and a teacher. The last teacher response, marked with a bold font, replies to the student's utterance directly above it. The tutor may or may not have used the student's mother tongue in the response. You are asked to evaluate this response.<br><br>
+
+<b>Dialogue Fragment:</b><br>
+STUDENT: I speak usually I usually speak Catalan<br>
+TUTOR: uhhuh how many people live in your house<br>
+STUDENT: hm we we are four<br>
+TUTOR: and can you describe me a bit your bedroom what you have in there<br>
+STUDENT: my my bedroom is not very big hm well there are a bed under the blackboard and I have a desk and a a table night next to my bed<br>
+<b>Tutor: yes</b><br><br>
+
+The teacher's response is clear.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The tutor's intent in the last response is:
+[[Choices]]
+Translation
+Clarification
+Acknowlegment
+Other
+
+[[Question:TE:Essay]]
+If you chose 'Other', please say what it was.
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The response seems normal in the context of this conversation.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The teacher's response would help me learn English.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:MC:SingleAnswer:Horizontal]]
+I would like my teacher to use responses like this.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:TE:Essay]]
+How would you improve this response?
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The tutor's use of English in the response is helpful and effective
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:TE:Essay]]
+How would you improve the tutor's use of multilinguality?
+
+[[Block:Group 2, sample 11]]
+
+[[ED:Group_2_Topic_11:topics]]
+
+[[ED:Group_2_Language_11:tutor-en]]
+
+[[Question:MC:SingleAnswer:Horizontal]]
+Please read the following fragment of a dialogue between a student learning English as a second language and a teacher. The last teacher response, marked with a bold font, replies to the student's utterance directly above it. The tutor may or may not have used the student's mother tongue in the response. You are asked to evaluate this response.<br><br>
+
+<b>Dialogue Fragment:</b><br>
+STUDENT: yes I have a brother his name is Samuel<br>
+TUTOR: Samuel a nice name I like it is he older than you<br>
+STUDENT: yes he he is twenty three years old I think<br>
+TUTOR: uhhuh hm and which language do you speak with him and with your parents and family<br>
+STUDENT: hm with my mother I speak hm spanish<br>
+<b>Tutor: spanish</b><br><br>
+
+The teacher's response is clear.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The tutor's intent in the last response is:
+[[Choices]]
+Translation
+Clarification
+Acknowlegment
+Other
+
+[[Question:TE:Essay]]
+If you chose 'Other', please say what it was.
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The response seems normal in the context of this conversation.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The teacher's response would help me learn English.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:MC:SingleAnswer:Horizontal]]
+I would like my teacher to use responses like this.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:TE:Essay]]
+How would you improve this response?
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The tutor's use of English in the response is helpful and effective
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:TE:Essay]]
+How would you improve the tutor's use of multilinguality?
+
+[[Block:Group 2, sample 12]]
+
+[[ED:Group_2_Topic_12:topics]]
+
+[[ED:Group_2_Language_12:tutor-en]]
+
+[[Question:MC:SingleAnswer:Horizontal]]
+Please read the following fragment of a dialogue between a student learning English as a second language and a teacher. The last teacher response, marked with a bold font, replies to the student's utterance directly above it. The tutor may or may not have used the student's mother tongue in the response. You are asked to evaluate this response.<br><br>
+
+<b>Dialogue Fragment:</b><br>
+STUDENT: sí<br>
+TUTOR: okay good okay in what time did you arrive this morning<br>
+STUDENT: hm espera no sé hm at hm bueno at half past eight<br>
+TUTOR: okay<br>
+STUDENT: no me acuerdo<br>
+<b>Tutor: hm okay and what time will you finish</b><br><br>
+
+The teacher's response is clear.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The tutor's intent in the last response is:
+[[Choices]]
+Translation
+Clarification
+Acknowlegment
+Other
+
+[[Question:TE:Essay]]
+If you chose 'Other', please say what it was.
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The response seems normal in the context of this conversation.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The teacher's response would help me learn English.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:MC:SingleAnswer:Horizontal]]
+I would like my teacher to use responses like this.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:TE:Essay]]
+How would you improve this response?
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The tutor's use of English in the response is helpful and effective
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:TE:Essay]]
+How would you improve the tutor's use of multilinguality?
+
+[[Block:Group 3, sample 1]]
+
+[[ED:Group_3_Topic_1:backchannel]]
+
+[[ED:Group_3_Language_1:tutor-en]]
+
+[[Question:MC:SingleAnswer:Horizontal]]
+Please read the following fragment of a dialogue between a student learning English as a second language and a teacher. The last teacher response, marked with a bold font, replies to the student's utterance directly above it. The tutor may or may not have used the student's mother tongue in the response. You are asked to evaluate this response.<br><br>
+
+<b>Dialogue Fragment:</b><br>
+STUDENT: yes<br>
+TUTOR: what<br>
+STUDENT: basketball<br>
+TUTOR: basketball you play basketball<br>
+STUDENT: yes<br>
+<b>Tutor: yes</b><br><br>
+
+The teacher's response is clear.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The tutor's intent in the last response is:
+[[Choices]]
+Translation
+Clarification
+Acknowlegment
+Other
+
+[[Question:TE:Essay]]
+If you chose 'Other', please say what it was.
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The response seems normal in the context of this conversation.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The teacher's response would help me learn English.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:MC:SingleAnswer:Horizontal]]
+I would like my teacher to use responses like this.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:TE:Essay]]
+How would you improve this response?
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The tutor's use of English in the response is helpful and effective
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:TE:Essay]]
+How would you improve the tutor's use of multilinguality?
+
+[[Block:Group 3, sample 2]]
+
+[[ED:Group_3_Topic_2:topics]]
+
+[[ED:Group_3_Language_2:tutor-es]]
+
+[[Question:MC:SingleAnswer:Horizontal]]
+Please read the following fragment of a dialogue between a student learning English as a second language and a teacher. The last teacher response, marked with a bold font, replies to the student's utterance directly above it. The tutor may or may not have used the student's mother tongue in the response. You are asked to evaluate this response.<br><br>
+
+<b>Dialogue Fragment:</b><br>
+STUDENT: hm<br>
+TUTOR: do you understand me mentens el que dic<br>
+STUDENT: ah no<br>
+TUTOR: no<br>
+STUDENT: es que no no lo he entendido ahora<br>
+<b>Tutor: bueno però el professor us parla en anglès a classe</b><br><br>
+
+The teacher's response is clear.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The tutor's intent in the last response is:
+[[Choices]]
+Translation
+Clarification
+Acknowlegment
+Other
+
+[[Question:TE:Essay]]
+If you chose 'Other', please say what it was.
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The response seems normal in the context of this conversation.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The teacher's response would help me learn English.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:MC:SingleAnswer:Horizontal]]
+I would like my teacher to use responses like this.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:TE:Essay]]
+How would you improve this response?
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The tutor's use of student's mother tongue is helpful and effective.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:TE:Essay]]
+How would you improve the tutor's use of multilinguality?
+
+[[Block:Group 3, sample 3]]
+
+[[ED:Group_3_Topic_3:questions]]
+
+[[ED:Group_3_Language_3:tutor-mixed]]
+
+[[Question:MC:SingleAnswer:Horizontal]]
+Please read the following fragment of a dialogue between a student learning English as a second language and a teacher. The last teacher response, marked with a bold font, replies to the student's utterance directly above it. The tutor may or may not have used the student's mother tongue in the response. You are asked to evaluate this response.<br><br>
+
+<b>Dialogue Fragment:</b><br>
+STUDENT: I<br>
+TUTOR: a table<br>
+STUDENT: sí<br>
+TUTOR: yeah and a chair<br>
+STUDENT: no<br>
+<b>Tutor: no Arnau would you like to ask me any question em vols fer alguna pregunta a mí no okay</b><br><br>
+
+The teacher's response is clear.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The tutor's intent in the last response is:
+[[Choices]]
+Translation
+Clarification
+Acknowlegment
+Other
+
+[[Question:TE:Essay]]
+If you chose 'Other', please say what it was.
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The response seems normal in the context of this conversation.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The teacher's response would help me learn English.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:MC:SingleAnswer:Horizontal]]
+I would like my teacher to use responses like this.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:TE:Essay]]
+How would you improve this response?
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The tutor's use of student's mother tongue is helpful and effective.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:TE:Essay]]
+How would you improve the tutor's use of multilinguality?
+
+[[Block:Group 3, sample 4]]
+
+[[ED:Group_3_Topic_4:topics]]
+
+[[ED:Group_3_Language_4:tutor-mixed]]
+
+[[Question:MC:SingleAnswer:Horizontal]]
+Please read the following fragment of a dialogue between a student learning English as a second language and a teacher. The last teacher response, marked with a bold font, replies to the student's utterance directly above it. The tutor may or may not have used the student's mother tongue in the response. You are asked to evaluate this response.<br><br>
+
+<b>Dialogue Fragment:</b><br>
+STUDENT: hm what is your name<br>
+TUTOR: my name is Carme<br>
+STUDENT: hm where tu hm tu day tu party<br>
+TUTOR: where<br>
+STUDENT: where tu day tu party<br>
+<b>Tutor: a party Una festa I don't understand if I have a party si faig Una festa</b><br><br>
+
+The teacher's response is clear.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The tutor's intent in the last response is:
+[[Choices]]
+Translation
+Clarification
+Acknowlegment
+Other
+
+[[Question:TE:Essay]]
+If you chose 'Other', please say what it was.
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The response seems normal in the context of this conversation.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The teacher's response would help me learn English.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:MC:SingleAnswer:Horizontal]]
+I would like my teacher to use responses like this.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:TE:Essay]]
+How would you improve this response?
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The tutor's use of student's mother tongue is helpful and effective.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:TE:Essay]]
+How would you improve the tutor's use of multilinguality?
+
+[[Block:Group 3, sample 5]]
+
+[[ED:Group_3_Topic_5:topics]]
+
+[[ED:Group_3_Language_5:tutor-en]]
+
+[[Question:MC:SingleAnswer:Horizontal]]
+Please read the following fragment of a dialogue between a student learning English as a second language and a teacher. The last teacher response, marked with a bold font, replies to the student's utterance directly above it. The tutor may or may not have used the student's mother tongue in the response. You are asked to evaluate this response.<br><br>
+
+<b>Dialogue Fragment:</b><br>
+STUDENT: no<br>
+TUTOR: quines coses hi ha a lhabitació<br>
+STUDENT: Un armari<br>
+TUTOR: ah a wardrobe yes<br>
+STUDENT: Una estanteria<br>
+<b>Tutor: how many beds how many beds to sleep</b><br><br>
+
+The teacher's response is clear.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The tutor's intent in the last response is:
+[[Choices]]
+Translation
+Clarification
+Acknowlegment
+Other
+
+[[Question:TE:Essay]]
+If you chose 'Other', please say what it was.
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The response seems normal in the context of this conversation.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The teacher's response would help me learn English.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:MC:SingleAnswer:Horizontal]]
+I would like my teacher to use responses like this.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:TE:Essay]]
+How would you improve this response?
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The tutor's use of English in the response is helpful and effective
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:TE:Essay]]
+How would you improve the tutor's use of multilinguality?
+
+[[Block:Group 3, sample 6]]
+
+[[ED:Group_3_Topic_6:backchannel]]
+
+[[ED:Group_3_Language_6:tutor-es]]
+
+[[Question:MC:SingleAnswer:Horizontal]]
+Please read the following fragment of a dialogue between a student learning English as a second language and a teacher. The last teacher response, marked with a bold font, replies to the student's utterance directly above it. The tutor may or may not have used the student's mother tongue in the response. You are asked to evaluate this response.<br><br>
+
+<b>Dialogue Fragment:</b><br>
+STUDENT: és com<br>
+TUTOR: yeah what is your name my name is Corinne what else<br>
+STUDENT: what is years old<br>
+TUTOR: what's my<br>
+STUDENT: ah hm old<br>
+<b>Tutor: no ho entès</b><br><br>
+
+The teacher's response is clear.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The tutor's intent in the last response is:
+[[Choices]]
+Translation
+Clarification
+Acknowlegment
+Other
+
+[[Question:TE:Essay]]
+If you chose 'Other', please say what it was.
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The response seems normal in the context of this conversation.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The teacher's response would help me learn English.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:MC:SingleAnswer:Horizontal]]
+I would like my teacher to use responses like this.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:TE:Essay]]
+How would you improve this response?
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The tutor's use of student's mother tongue is helpful and effective.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:TE:Essay]]
+How would you improve the tutor's use of multilinguality?
+
+[[Block:Group 3, sample 7]]
+
+[[ED:Group_3_Topic_7:topics]]
+
+[[ED:Group_3_Language_7:tutor-en]]
+
+[[Question:MC:SingleAnswer:Horizontal]]
+Please read the following fragment of a dialogue between a student learning English as a second language and a teacher. The last teacher response, marked with a bold font, replies to the student's utterance directly above it. The tutor may or may not have used the student's mother tongue in the response. You are asked to evaluate this response.<br><br>
+
+<b>Dialogue Fragment:</b><br>
+STUDENT: sí<br>
+TUTOR: with what<br>
+STUDENT: com<br>
+TUTOR: what do you play with<br>
+STUDENT: ah hm no hm veig la tele hm o<br>
+<b>Tutor: in english</b><br><br>
+
+The teacher's response is clear.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The tutor's intent in the last response is:
+[[Choices]]
+Translation
+Clarification
+Acknowlegment
+Other
+
+[[Question:TE:Essay]]
+If you chose 'Other', please say what it was.
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The response seems normal in the context of this conversation.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The teacher's response would help me learn English.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:MC:SingleAnswer:Horizontal]]
+I would like my teacher to use responses like this.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:TE:Essay]]
+How would you improve this response?
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The tutor's use of English in the response is helpful and effective
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:TE:Essay]]
+How would you improve the tutor's use of multilinguality?
+
+[[Block:Group 3, sample 8]]
+
+[[ED:Group_3_Topic_8:backchannel]]
+
+[[ED:Group_3_Language_8:tutor-mixed]]
+
+[[Question:MC:SingleAnswer:Horizontal]]
+Please read the following fragment of a dialogue between a student learning English as a second language and a teacher. The last teacher response, marked with a bold font, replies to the student's utterance directly above it. The tutor may or may not have used the student's mother tongue in the response. You are asked to evaluate this response.<br><br>
+
+<b>Dialogue Fragment:</b><br>
+STUDENT: I like watch tv<br>
+TUTOR: yeah I like watching tv and yeah but not everything just some programmes not everything that's on tv ja està okay<br>
+STUDENT: I'm thirteen years old<br>
+TUTOR: okay and when's your birthday in June<br>
+STUDENT: twenty third<br>
+<b>Tutor: twenty five vinticinc</b><br><br>
+
+The teacher's response is clear.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The tutor's intent in the last response is:
+[[Choices]]
+Translation
+Clarification
+Acknowlegment
+Other
+
+[[Question:TE:Essay]]
+If you chose 'Other', please say what it was.
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The response seems normal in the context of this conversation.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The teacher's response would help me learn English.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:MC:SingleAnswer:Horizontal]]
+I would like my teacher to use responses like this.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:TE:Essay]]
+How would you improve this response?
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The tutor's use of student's mother tongue is helpful and effective.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:TE:Essay]]
+How would you improve the tutor's use of multilinguality?
+
+[[Block:Group 3, sample 9]]
+
+[[ED:Group_3_Topic_9:questions]]
+
+[[ED:Group_3_Language_9:tutor-en]]
+
+[[Question:MC:SingleAnswer:Horizontal]]
+Please read the following fragment of a dialogue between a student learning English as a second language and a teacher. The last teacher response, marked with a bold font, replies to the student's utterance directly above it. The tutor may or may not have used the student's mother tongue in the response. You are asked to evaluate this response.<br><br>
+
+<b>Dialogue Fragment:</b><br>
+STUDENT: hm the the color de mis paredes<br>
+TUTOR: the walls<br>
+STUDENT: the wall is yellow and I have hm muchos lot muñequitos no sé peluches<br>
+TUTOR: uhhuh<br>
+STUDENT: y no sé qué más<br>
+<b>Tutor: okay hm would you like to ask me any questions now</b><br><br>
+
+The teacher's response is clear.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The tutor's intent in the last response is:
+[[Choices]]
+Translation
+Clarification
+Acknowlegment
+Other
+
+[[Question:TE:Essay]]
+If you chose 'Other', please say what it was.
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The response seems normal in the context of this conversation.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The teacher's response would help me learn English.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:MC:SingleAnswer:Horizontal]]
+I would like my teacher to use responses like this.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:TE:Essay]]
+How would you improve this response?
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The tutor's use of English in the response is helpful and effective
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:TE:Essay]]
+How would you improve the tutor's use of multilinguality?
+
+[[Block:Group 3, sample 10]]
+
+[[ED:Group_3_Topic_10:questions]]
+
+[[ED:Group_3_Language_10:tutor-mixed]]
+
+[[Question:MC:SingleAnswer:Horizontal]]
+Please read the following fragment of a dialogue between a student learning English as a second language and a teacher. The last teacher response, marked with a bold font, replies to the student's utterance directly above it. The tutor may or may not have used the student's mother tongue in the response. You are asked to evaluate this response.<br><br>
+
+<b>Dialogue Fragment:</b><br>
+STUDENT: sí uno de matrimonio<br>
+TUTOR: but your room your room tell me about your room<br>
+STUDENT: ah two<br>
+TUTOR: two beds<br>
+STUDENT: sí in my room two beds<br>
+<b>Tutor: okay and hm now would you like to ask me any questions you ask me questions em pots fer Les preguntes que vulguis a Mi vols saber coses de Mi</b><br><br>
+
+The teacher's response is clear.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The tutor's intent in the last response is:
+[[Choices]]
+Translation
+Clarification
+Acknowlegment
+Other
+
+[[Question:TE:Essay]]
+If you chose 'Other', please say what it was.
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The response seems normal in the context of this conversation.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The teacher's response would help me learn English.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:MC:SingleAnswer:Horizontal]]
+I would like my teacher to use responses like this.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:TE:Essay]]
+How would you improve this response?
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The tutor's use of student's mother tongue is helpful and effective.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:TE:Essay]]
+How would you improve the tutor's use of multilinguality?
+
+[[Block:Group 3, sample 11]]
+
+[[ED:Group_3_Topic_11:questions]]
+
+[[ED:Group_3_Language_11:tutor-en]]
+
+[[Question:MC:SingleAnswer:Horizontal]]
+Please read the following fragment of a dialogue between a student learning English as a second language and a teacher. The last teacher response, marked with a bold font, replies to the student's utterance directly above it. The tutor may or may not have used the student's mother tongue in the response. You are asked to evaluate this response.<br><br>
+
+<b>Dialogue Fragment:</b><br>
+STUDENT: hm a books<br>
+TUTOR: books uhhuh<br>
+STUDENT: a table<br>
+TUTOR: table<br>
+STUDENT: I res més<br>
+<b>Tutor: okay now would you like to ask me questions</b><br><br>
+
+The teacher's response is clear.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The tutor's intent in the last response is:
+[[Choices]]
+Translation
+Clarification
+Acknowlegment
+Other
+
+[[Question:TE:Essay]]
+If you chose 'Other', please say what it was.
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The response seems normal in the context of this conversation.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The teacher's response would help me learn English.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:MC:SingleAnswer:Horizontal]]
+I would like my teacher to use responses like this.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:TE:Essay]]
+How would you improve this response?
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The tutor's use of English in the response is helpful and effective
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:TE:Essay]]
+How would you improve the tutor's use of multilinguality?
+
+[[Block:Group 3, sample 12]]
+
+[[ED:Group_3_Topic_12:backchannel]]
+
+[[ED:Group_3_Language_12:tutor-en]]
+
+[[Question:MC:SingleAnswer:Horizontal]]
+Please read the following fragment of a dialogue between a student learning English as a second language and a teacher. The last teacher response, marked with a bold font, replies to the student's utterance directly above it. The tutor may or may not have used the student's mother tongue in the response. You are asked to evaluate this response.<br><br>
+
+<b>Dialogue Fragment:</b><br>
+STUDENT: second<br>
+TUTOR: second division or second league well okay second<br>
+STUDENT: sí<br>
+TUTOR: that's is it that very good<br>
+STUDENT: es a ver I play in juveniles<br>
+<b>Tutor: okay okay</b><br><br>
+
+The teacher's response is clear.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The tutor's intent in the last response is:
+[[Choices]]
+Translation
+Clarification
+Acknowlegment
+Other
+
+[[Question:TE:Essay]]
+If you chose 'Other', please say what it was.
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The response seems normal in the context of this conversation.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The teacher's response would help me learn English.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:MC:SingleAnswer:Horizontal]]
+I would like my teacher to use responses like this.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:TE:Essay]]
+How would you improve this response?
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The tutor's use of English in the response is helpful and effective
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:TE:Essay]]
+How would you improve the tutor's use of multilinguality?
+
+[[Block:Group 4, sample 1]]
+
+[[ED:Group_4_Topic_1:backchannel]]
+
+[[ED:Group_4_Language_1:tutor-mixed]]
+
+[[Question:MC:SingleAnswer:Horizontal]]
+Please read the following fragment of a dialogue between a student learning English as a second language and a teacher. The last teacher response, marked with a bold font, replies to the student's utterance directly above it. The tutor may or may not have used the student's mother tongue in the response. You are asked to evaluate this response.<br><br>
+
+<b>Dialogue Fragment:</b><br>
+STUDENT: my hobby<br>
+TUTOR: now yes but what programmes tv programmes you like<br>
+STUDENT: ah de todo<br>
+TUTOR: everything boladedrac you like<br>
+STUDENT: yes<br>
+<b>Tutor: you do what else what other programmes sensetítol</b><br><br>
+
+The teacher's response is clear.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The tutor's intent in the last response is:
+[[Choices]]
+Translation
+Clarification
+Acknowlegment
+Other
+
+[[Question:TE:Essay]]
+If you chose 'Other', please say what it was.
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The response seems normal in the context of this conversation.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The teacher's response would help me learn English.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:MC:SingleAnswer:Horizontal]]
+I would like my teacher to use responses like this.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:TE:Essay]]
+How would you improve this response?
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The tutor's use of student's mother tongue is helpful and effective.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:TE:Essay]]
+How would you improve the tutor's use of multilinguality?
+
+[[Block:Group 4, sample 2]]
+
+[[ED:Group_4_Topic_2:topics]]
+
+[[ED:Group_4_Language_2:tutor-en]]
+
+[[Question:MC:SingleAnswer:Horizontal]]
+Please read the following fragment of a dialogue between a student learning English as a second language and a teacher. The last teacher response, marked with a bold font, replies to the student's utterance directly above it. The tutor may or may not have used the student's mother tongue in the response. You are asked to evaluate this response.<br><br>
+
+<b>Dialogue Fragment:</b><br>
+STUDENT: sí yes<br>
+TUTOR: okay alone you your on your own or with friends<br>
+STUDENT: two<br>
+TUTOR: two friends<br>
+STUDENT: sí<br>
+<b>Tutor: good where did you to school in primary school what was your school before this one</b><br><br>
+
+The teacher's response is clear.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The tutor's intent in the last response is:
+[[Choices]]
+Translation
+Clarification
+Acknowlegment
+Other
+
+[[Question:TE:Essay]]
+If you chose 'Other', please say what it was.
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The response seems normal in the context of this conversation.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The teacher's response would help me learn English.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:MC:SingleAnswer:Horizontal]]
+I would like my teacher to use responses like this.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:TE:Essay]]
+How would you improve this response?
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The tutor's use of English in the response is helpful and effective
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:TE:Essay]]
+How would you improve the tutor's use of multilinguality?
+
+[[Block:Group 4, sample 3]]
+
+[[ED:Group_4_Topic_3:questions]]
+
+[[ED:Group_4_Language_3:tutor-mixed]]
+
+[[Question:MC:SingleAnswer:Horizontal]]
+Please read the following fragment of a dialogue between a student learning English as a second language and a teacher. The last teacher response, marked with a bold font, replies to the student's utterance directly above it. The tutor may or may not have used the student's mother tongue in the response. You are asked to evaluate this response.<br><br>
+
+<b>Dialogue Fragment:</b><br>
+STUDENT: sí<br>
+TUTOR: do you have something<br>
+STUDENT: què hi ha<br>
+TUTOR: uhhuh<br>
+STUDENT: ah posters I quadres<br>
+<b>Tutor: okay hm now would you like to ask me a question em vols fer alguna pregunta a Mi</b><br><br>
+
+The teacher's response is clear.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The tutor's intent in the last response is:
+[[Choices]]
+Translation
+Clarification
+Acknowlegment
+Other
+
+[[Question:TE:Essay]]
+If you chose 'Other', please say what it was.
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The response seems normal in the context of this conversation.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The teacher's response would help me learn English.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:MC:SingleAnswer:Horizontal]]
+I would like my teacher to use responses like this.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:TE:Essay]]
+How would you improve this response?
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The tutor's use of student's mother tongue is helpful and effective.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:TE:Essay]]
+How would you improve the tutor's use of multilinguality?
+
+[[Block:Group 4, sample 4]]
+
+[[ED:Group_4_Topic_4:topics]]
+
+[[ED:Group_4_Language_4:tutor-mixed]]
+
+[[Question:MC:SingleAnswer:Horizontal]]
+Please read the following fragment of a dialogue between a student learning English as a second language and a teacher. The last teacher response, marked with a bold font, replies to the student's utterance directly above it. The tutor may or may not have used the student's mother tongue in the response. You are asked to evaluate this response.<br><br>
+
+<b>Dialogue Fragment:</b><br>
+STUDENT: eleven no depèn perquè si fan futbol o no<br>
+TUTOR: in english try in english<br>
+STUDENT: is the espera a les ten o'clock or half past ten<br>
+TUTOR: so what time what time okay<br>
+STUDENT: hello<br>
+<b>Tutor: okay and how old are you si no me entiendes me lo dices how old are you ten eleven</b><br><br>
+
+The teacher's response is clear.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The tutor's intent in the last response is:
+[[Choices]]
+Translation
+Clarification
+Acknowlegment
+Other
+
+[[Question:TE:Essay]]
+If you chose 'Other', please say what it was.
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The response seems normal in the context of this conversation.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The teacher's response would help me learn English.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:MC:SingleAnswer:Horizontal]]
+I would like my teacher to use responses like this.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:TE:Essay]]
+How would you improve this response?
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The tutor's use of student's mother tongue is helpful and effective.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:TE:Essay]]
+How would you improve the tutor's use of multilinguality?
+
+[[Block:Group 4, sample 5]]
+
+[[ED:Group_4_Topic_5:questions]]
+
+[[ED:Group_4_Language_5:tutor-en]]
+
+[[Question:MC:SingleAnswer:Horizontal]]
+Please read the following fragment of a dialogue between a student learning English as a second language and a teacher. The last teacher response, marked with a bold font, replies to the student's utterance directly above it. The tutor may or may not have used the student's mother tongue in the response. You are asked to evaluate this response.<br><br>
+
+<b>Dialogue Fragment:</b><br>
+STUDENT: hm bed<br>
+TUTOR: bed<br>
+STUDENT: I<br>
+TUTOR: that's good okay<br>
+STUDENT: ja està<br>
+<b>Tutor: hm now would you like to ask me any questions no okay I asked you questions now you can ask me if you would like</b><br><br>
+
+The teacher's response is clear.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The tutor's intent in the last response is:
+[[Choices]]
+Translation
+Clarification
+Acknowlegment
+Other
+
+[[Question:TE:Essay]]
+If you chose 'Other', please say what it was.
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The response seems normal in the context of this conversation.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The teacher's response would help me learn English.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:MC:SingleAnswer:Horizontal]]
+I would like my teacher to use responses like this.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:TE:Essay]]
+How would you improve this response?
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The tutor's use of English in the response is helpful and effective
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:TE:Essay]]
+How would you improve the tutor's use of multilinguality?
+
+[[Block:Group 4, sample 6]]
+
+[[ED:Group_4_Topic_6:backchannel]]
+
+[[ED:Group_4_Language_6:tutor-en]]
+
+[[Question:MC:SingleAnswer:Horizontal]]
+Please read the following fragment of a dialogue between a student learning English as a second language and a teacher. The last teacher response, marked with a bold font, replies to the student's utterance directly above it. The tutor may or may not have used the student's mother tongue in the response. You are asked to evaluate this response.<br><br>
+
+<b>Dialogue Fragment:</b><br>
+STUDENT: què faig<br>
+TUTOR: uhhuh<br>
+STUDENT: faig els debers<br>
+TUTOR: els debers homework<br>
+STUDENT: sí<br>
+<b>Tutor: homework okay do you watch tv</b><br><br>
+
+The teacher's response is clear.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The tutor's intent in the last response is:
+[[Choices]]
+Translation
+Clarification
+Acknowlegment
+Other
+
+[[Question:TE:Essay]]
+If you chose 'Other', please say what it was.
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The response seems normal in the context of this conversation.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The teacher's response would help me learn English.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:MC:SingleAnswer:Horizontal]]
+I would like my teacher to use responses like this.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:TE:Essay]]
+How would you improve this response?
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The tutor's use of English in the response is helpful and effective
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:TE:Essay]]
+How would you improve the tutor's use of multilinguality?
+
+[[Block:Group 4, sample 7]]
+
+[[ED:Group_4_Topic_7:backchannel]]
+
+[[ED:Group_4_Language_7:tutor-en]]
+
+[[Question:MC:SingleAnswer:Horizontal]]
+Please read the following fragment of a dialogue between a student learning English as a second language and a teacher. The last teacher response, marked with a bold font, replies to the student's utterance directly above it. The tutor may or may not have used the student's mother tongue in the response. You are asked to evaluate this response.<br><br>
+
+<b>Dialogue Fragment:</b><br>
+STUDENT: hm computer games<br>
+TUTOR: computer games<br>
+STUDENT: reading<br>
+TUTOR: yeah do you read english books or books in Catalan<br>
+STUDENT: hm no a ver espera hm pelí bueno películas<br>
+<b>Tutor: films</b><br><br>
+
+The teacher's response is clear.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The tutor's intent in the last response is:
+[[Choices]]
+Translation
+Clarification
+Acknowlegment
+Other
+
+[[Question:TE:Essay]]
+If you chose 'Other', please say what it was.
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The response seems normal in the context of this conversation.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The teacher's response would help me learn English.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:MC:SingleAnswer:Horizontal]]
+I would like my teacher to use responses like this.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:TE:Essay]]
+How would you improve this response?
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The tutor's use of English in the response is helpful and effective
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:TE:Essay]]
+How would you improve the tutor's use of multilinguality?
+
+[[Block:Group 4, sample 8]]
+
+[[ED:Group_4_Topic_8:backchannel]]
+
+[[ED:Group_4_Language_8:tutor-es]]
+
+[[Question:MC:SingleAnswer:Horizontal]]
+Please read the following fragment of a dialogue between a student learning English as a second language and a teacher. The last teacher response, marked with a bold font, replies to the student's utterance directly above it. The tutor may or may not have used the student's mother tongue in the response. You are asked to evaluate this response.<br><br>
+
+<b>Dialogue Fragment:</b><br>
+STUDENT: hm seven<br>
+TUTOR: seven o'clock in the morning<br>
+STUDENT: sí<br>
+TUTOR: què has fet a Les set<br>
+STUDENT: hm pues<br>
+<b>Tutor: thas aixecat</b><br><br>
+
+The teacher's response is clear.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The tutor's intent in the last response is:
+[[Choices]]
+Translation
+Clarification
+Acknowlegment
+Other
+
+[[Question:TE:Essay]]
+If you chose 'Other', please say what it was.
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The response seems normal in the context of this conversation.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The teacher's response would help me learn English.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:MC:SingleAnswer:Horizontal]]
+I would like my teacher to use responses like this.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:TE:Essay]]
+How would you improve this response?
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The tutor's use of student's mother tongue is helpful and effective.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:TE:Essay]]
+How would you improve the tutor's use of multilinguality?
+
+[[Block:Group 4, sample 9]]
+
+[[ED:Group_4_Topic_9:questions]]
+
+[[ED:Group_4_Language_9:tutor-mixed]]
+
+[[Question:MC:SingleAnswer:Horizontal]]
+Please read the following fragment of a dialogue between a student learning English as a second language and a teacher. The last teacher response, marked with a bold font, replies to the student's utterance directly above it. The tutor may or may not have used the student's mother tongue in the response. You are asked to evaluate this response.<br><br>
+
+<b>Dialogue Fragment:</b><br>
+STUDENT: la Una y media<br>
+TUTOR: one thirty okay and hm in the afternoon<br>
+STUDENT: sí<br>
+TUTOR: hm hm what time hm will you arrive home in the afternoon<br>
+STUDENT: a quarter un cuarto de hora a quarter<br>
+<b>Tutor: qué es lo que te he preguntado</b><br><br>
+
+The teacher's response is clear.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The tutor's intent in the last response is:
+[[Choices]]
+Translation
+Clarification
+Acknowlegment
+Other
+
+[[Question:TE:Essay]]
+If you chose 'Other', please say what it was.
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The response seems normal in the context of this conversation.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The teacher's response would help me learn English.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:MC:SingleAnswer:Horizontal]]
+I would like my teacher to use responses like this.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:TE:Essay]]
+How would you improve this response?
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The tutor's use of student's mother tongue is helpful and effective.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:TE:Essay]]
+How would you improve the tutor's use of multilinguality?
+
+[[Block:Group 4, sample 10]]
+
+[[ED:Group_4_Topic_10:topics]]
+
+[[ED:Group_4_Language_10:tutor-es]]
+
+[[Question:MC:SingleAnswer:Horizontal]]
+Please read the following fragment of a dialogue between a student learning English as a second language and a teacher. The last teacher response, marked with a bold font, replies to the student's utterance directly above it. The tutor may or may not have used the student's mother tongue in the response. You are asked to evaluate this response.<br><br>
+
+<b>Dialogue Fragment:</b><br>
+STUDENT: four<br>
+TUTOR: four who<br>
+STUDENT: eh<br>
+TUTOR: who qui<br>
+STUDENT: who and my father my mo mother my sister and me<br>
+<b>Tutor: uhhuh tens Un germà o Una germana</b><br><br>
+
+The teacher's response is clear.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The tutor's intent in the last response is:
+[[Choices]]
+Translation
+Clarification
+Acknowlegment
+Other
+
+[[Question:TE:Essay]]
+If you chose 'Other', please say what it was.
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The response seems normal in the context of this conversation.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The teacher's response would help me learn English.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:MC:SingleAnswer:Horizontal]]
+I would like my teacher to use responses like this.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:TE:Essay]]
+How would you improve this response?
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The tutor's use of student's mother tongue is helpful and effective.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:TE:Essay]]
+How would you improve the tutor's use of multilinguality?
+
+[[Block:Group 4, sample 11]]
+
+[[ED:Group_4_Topic_11:topics]]
+
+[[ED:Group_4_Language_11:tutor-en]]
+
+[[Question:MC:SingleAnswer:Horizontal]]
+Please read the following fragment of a dialogue between a student learning English as a second language and a teacher. The last teacher response, marked with a bold font, replies to the student's utterance directly above it. The tutor may or may not have used the student's mother tongue in the response. You are asked to evaluate this response.<br><br>
+
+<b>Dialogue Fragment:</b><br>
+STUDENT: ah no<br>
+TUTOR: no okay<br>
+STUDENT: es que pensaba<br>
+TUTOR: y has estudiado inglés alguna vez fuera Del colegio<br>
+STUDENT: no<br>
+<b>Tutor: no okay and how old are you</b><br><br>
+
+The teacher's response is clear.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The tutor's intent in the last response is:
+[[Choices]]
+Translation
+Clarification
+Acknowlegment
+Other
+
+[[Question:TE:Essay]]
+If you chose 'Other', please say what it was.
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The response seems normal in the context of this conversation.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The teacher's response would help me learn English.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:MC:SingleAnswer:Horizontal]]
+I would like my teacher to use responses like this.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:TE:Essay]]
+How would you improve this response?
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The tutor's use of English in the response is helpful and effective
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:TE:Essay]]
+How would you improve the tutor's use of multilinguality?
+
+[[Block:Group 4, sample 12]]
+
+[[ED:Group_4_Topic_12:questions]]
+
+[[ED:Group_4_Language_12:tutor-en]]
+
+[[Question:MC:SingleAnswer:Horizontal]]
+Please read the following fragment of a dialogue between a student learning English as a second language and a teacher. The last teacher response, marked with a bold font, replies to the student's utterance directly above it. The tutor may or may not have used the student's mother tongue in the response. You are asked to evaluate this response.<br><br>
+
+<b>Dialogue Fragment:</b><br>
+STUDENT: es que no sé cómo se dice photos hm works<br>
+TUTOR: okay where do you live do you live near the school<br>
+STUDENT: sí in lescorts<br>
+TUTOR: okay so you come walking<br>
+STUDENT: sí<br>
+<b>Tutor: okay now would you like to ask me any questions because I've been es asking questions to you so it's your turn</b><br><br>
+
+The teacher's response is clear.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The tutor's intent in the last response is:
+[[Choices]]
+Translation
+Clarification
+Acknowlegment
+Other
+
+[[Question:TE:Essay]]
+If you chose 'Other', please say what it was.
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The response seems normal in the context of this conversation.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The teacher's response would help me learn English.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:MC:SingleAnswer:Horizontal]]
+I would like my teacher to use responses like this.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:TE:Essay]]
+How would you improve this response?
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The tutor's use of English in the response is helpful and effective
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:TE:Essay]]
+How would you improve the tutor's use of multilinguality?
+
+[[Block:Group 5, sample 1]]
+
+[[ED:Group_5_Topic_1:backchannel]]
+
+[[ED:Group_5_Language_1:tutor-es]]
+
+[[Question:MC:SingleAnswer:Horizontal]]
+Please read the following fragment of a dialogue between a student learning English as a second language and a teacher. The last teacher response, marked with a bold font, replies to the student's utterance directly above it. The tutor may or may not have used the student's mother tongue in the response. You are asked to evaluate this response.<br><br>
+
+<b>Dialogue Fragment:</b><br>
+STUDENT: hm yes<br>
+TUTOR: uhhuh hazme alguna pregunta<br>
+STUDENT: how do you do<br>
+TUTOR: fine thanks and you<br>
+STUDENT: fine<br>
+<b>Tutor: alguna otra</b><br><br>
+
+The teacher's response is clear.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The tutor's intent in the last response is:
+[[Choices]]
+Translation
+Clarification
+Acknowlegment
+Other
+
+[[Question:TE:Essay]]
+If you chose 'Other', please say what it was.
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The response seems normal in the context of this conversation.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The teacher's response would help me learn English.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:MC:SingleAnswer:Horizontal]]
+I would like my teacher to use responses like this.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:TE:Essay]]
+How would you improve this response?
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The tutor's use of student's mother tongue is helpful and effective.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:TE:Essay]]
+How would you improve the tutor's use of multilinguality?
+
+[[Block:Group 5, sample 2]]
+
+[[ED:Group_5_Topic_2:topics]]
+
+[[ED:Group_5_Language_2:tutor-mixed]]
+
+[[Question:MC:SingleAnswer:Horizontal]]
+Please read the following fragment of a dialogue between a student learning English as a second language and a teacher. The last teacher response, marked with a bold font, replies to the student's utterance directly above it. The tutor may or may not have used the student's mother tongue in the response. You are asked to evaluate this response.<br><br>
+
+<b>Dialogue Fragment:</b><br>
+STUDENT: no<br>
+TUTOR: why not<br>
+STUDENT: no no<br>
+TUTOR: why you don't like the school you tell me something<br>
+STUDENT: qué tengo que decir si me gusta la escuela<br>
+<b>Tutor: yeah you say no and I ask why per què no tagrada hm what time did you arrive this morning</b><br><br>
+
+The teacher's response is clear.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The tutor's intent in the last response is:
+[[Choices]]
+Translation
+Clarification
+Acknowlegment
+Other
+
+[[Question:TE:Essay]]
+If you chose 'Other', please say what it was.
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The response seems normal in the context of this conversation.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The teacher's response would help me learn English.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:MC:SingleAnswer:Horizontal]]
+I would like my teacher to use responses like this.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:TE:Essay]]
+How would you improve this response?
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The tutor's use of student's mother tongue is helpful and effective.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:TE:Essay]]
+How would you improve the tutor's use of multilinguality?
+
+[[Block:Group 5, sample 3]]
+
+[[ED:Group_5_Topic_3:questions]]
+
+[[ED:Group_5_Language_3:tutor-en]]
+
+[[Question:MC:SingleAnswer:Horizontal]]
+Please read the following fragment of a dialogue between a student learning English as a second language and a teacher. The last teacher response, marked with a bold font, replies to the student's utterance directly above it. The tutor may or may not have used the student's mother tongue in the response. You are asked to evaluate this response.<br><br>
+
+<b>Dialogue Fragment:</b><br>
+STUDENT: and dos two chair<br>
+TUTOR: two chairs<br>
+STUDENT: chairs and hm books<br>
+TUTOR: good good hm okay now would you like to ask me any questions be cause I asked you how old are you where do you live<br>
+STUDENT: més difícils<br>
+<b>Tutor: no it's something else I say how old are you where do you live you hadta give the answers now you ask me a question</b><br><br>
+
+The teacher's response is clear.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The tutor's intent in the last response is:
+[[Choices]]
+Translation
+Clarification
+Acknowlegment
+Other
+
+[[Question:TE:Essay]]
+If you chose 'Other', please say what it was.
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The response seems normal in the context of this conversation.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The teacher's response would help me learn English.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:MC:SingleAnswer:Horizontal]]
+I would like my teacher to use responses like this.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:TE:Essay]]
+How would you improve this response?
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The tutor's use of English in the response is helpful and effective
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:TE:Essay]]
+How would you improve the tutor's use of multilinguality?
+
+[[Block:Group 5, sample 4]]
+
+[[ED:Group_5_Topic_4:questions]]
+
+[[ED:Group_5_Language_4:tutor-en]]
+
+[[Question:MC:SingleAnswer:Horizontal]]
+Please read the following fragment of a dialogue between a student learning English as a second language and a teacher. The last teacher response, marked with a bold font, replies to the student's utterance directly above it. The tutor may or may not have used the student's mother tongue in the response. You are asked to evaluate this response.<br><br>
+
+<b>Dialogue Fragment:</b><br>
+STUDENT: yes with hm of my no of my basketball team<br>
+TUTOR: okay what a basketball team<br>
+STUDENT: hm sagradafamília<br>
+TUTOR: sagradafamília<br>
+STUDENT: yes<br>
+<b>Tutor: right okay hm I've been asking you questions pau would you like to ask me some you don't know anything about me so you can ask me if you want</b><br><br>
+
+The teacher's response is clear.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The tutor's intent in the last response is:
+[[Choices]]
+Translation
+Clarification
+Acknowlegment
+Other
+
+[[Question:TE:Essay]]
+If you chose 'Other', please say what it was.
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The response seems normal in the context of this conversation.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The teacher's response would help me learn English.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:MC:SingleAnswer:Horizontal]]
+I would like my teacher to use responses like this.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:TE:Essay]]
+How would you improve this response?
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The tutor's use of English in the response is helpful and effective
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:TE:Essay]]
+How would you improve the tutor's use of multilinguality?
+
+[[Block:Group 5, sample 5]]
+
+[[ED:Group_5_Topic_5:questions]]
+
+[[ED:Group_5_Language_5:tutor-mixed]]
+
+[[Question:MC:SingleAnswer:Horizontal]]
+Please read the following fragment of a dialogue between a student learning English as a second language and a teacher. The last teacher response, marked with a bold font, replies to the student's utterance directly above it. The tutor may or may not have used the student's mother tongue in the response. You are asked to evaluate this response.<br><br>
+
+<b>Dialogue Fragment:</b><br>
+STUDENT: què<br>
+TUTOR: what else què més hi ha a la teva habitació<br>
+STUDENT: a a bed<br>
+TUTOR: a bed good okay and now would you like to ask me any questions<br>
+STUDENT: no<br>
+<b>Tutor: would you like to ask me any questions si em vols fer alguna pregunta</b><br><br>
+
+The teacher's response is clear.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The tutor's intent in the last response is:
+[[Choices]]
+Translation
+Clarification
+Acknowlegment
+Other
+
+[[Question:TE:Essay]]
+If you chose 'Other', please say what it was.
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The response seems normal in the context of this conversation.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The teacher's response would help me learn English.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:MC:SingleAnswer:Horizontal]]
+I would like my teacher to use responses like this.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:TE:Essay]]
+How would you improve this response?
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The tutor's use of student's mother tongue is helpful and effective.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:TE:Essay]]
+How would you improve the tutor's use of multilinguality?
+
+[[Block:Group 5, sample 6]]
+
+[[ED:Group_5_Topic_6:topics]]
+
+[[ED:Group_5_Language_6:tutor-es]]
+
+[[Question:MC:SingleAnswer:Horizontal]]
+Please read the following fragment of a dialogue between a student learning English as a second language and a teacher. The last teacher response, marked with a bold font, replies to the student's utterance directly above it. The tutor may or may not have used the student's mother tongue in the response. You are asked to evaluate this response.<br><br>
+
+<b>Dialogue Fragment:</b><br>
+STUDENT: pse<br>
+TUTOR: yeah do you understand the teacher when she speaks english in the classroom<br>
+STUDENT: hm<br>
+TUTOR: does the teacher speak english a lot in the classroom<br>
+STUDENT: yes<br>
+<b>Tutor: yeah parla molt anglès a la classe la professora</b><br><br>
+
+The teacher's response is clear.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The tutor's intent in the last response is:
+[[Choices]]
+Translation
+Clarification
+Acknowlegment
+Other
+
+[[Question:TE:Essay]]
+If you chose 'Other', please say what it was.
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The response seems normal in the context of this conversation.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The teacher's response would help me learn English.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:MC:SingleAnswer:Horizontal]]
+I would like my teacher to use responses like this.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:TE:Essay]]
+How would you improve this response?
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The tutor's use of student's mother tongue is helpful and effective.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:TE:Essay]]
+How would you improve the tutor's use of multilinguality?
+
+[[Block:Group 5, sample 7]]
+
+[[ED:Group_5_Topic_7:questions]]
+
+[[ED:Group_5_Language_7:tutor-mixed]]
+
+[[Question:MC:SingleAnswer:Horizontal]]
+Please read the following fragment of a dialogue between a student learning English as a second language and a teacher. The last teacher response, marked with a bold font, replies to the student's utterance directly above it. The tutor may or may not have used the student's mother tongue in the response. You are asked to evaluate this response.<br><br>
+
+<b>Dialogue Fragment:</b><br>
+STUDENT: yes<br>
+TUTOR: okay tell me about your bedroom com és lhabitació<br>
+STUDENT: is big<br>
+TUTOR: what what is there in the bedroom there is a bed<br>
+STUDENT: bed table<br>
+<b>Tutor: okay now Mireia would you like to ask me some questions em vols fer alguna pregunta a mi</b><br><br>
+
+The teacher's response is clear.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The tutor's intent in the last response is:
+[[Choices]]
+Translation
+Clarification
+Acknowlegment
+Other
+
+[[Question:TE:Essay]]
+If you chose 'Other', please say what it was.
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The response seems normal in the context of this conversation.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The teacher's response would help me learn English.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:MC:SingleAnswer:Horizontal]]
+I would like my teacher to use responses like this.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:TE:Essay]]
+How would you improve this response?
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The tutor's use of student's mother tongue is helpful and effective.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:TE:Essay]]
+How would you improve the tutor's use of multilinguality?
+
+[[Block:Group 5, sample 8]]
+
+[[ED:Group_5_Topic_8:topics]]
+
+[[ED:Group_5_Language_8:tutor-en]]
+
+[[Question:MC:SingleAnswer:Horizontal]]
+Please read the following fragment of a dialogue between a student learning English as a second language and a teacher. The last teacher response, marked with a bold font, replies to the student's utterance directly above it. The tutor may or may not have used the student's mother tongue in the response. You are asked to evaluate this response.<br><br>
+
+<b>Dialogue Fragment:</b><br>
+STUDENT: ah collblanctorrassa<br>
+TUTOR: is it near your house<br>
+STUDENT: yes<br>
+TUTOR: hm how do you how do you come here in the mornings<br>
+STUDENT: hm<br>
+<b>Tutor: you live in collblanctorrassa</b><br><br>
+
+The teacher's response is clear.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The tutor's intent in the last response is:
+[[Choices]]
+Translation
+Clarification
+Acknowlegment
+Other
+
+[[Question:TE:Essay]]
+If you chose 'Other', please say what it was.
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The response seems normal in the context of this conversation.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The teacher's response would help me learn English.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:MC:SingleAnswer:Horizontal]]
+I would like my teacher to use responses like this.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:TE:Essay]]
+How would you improve this response?
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The tutor's use of English in the response is helpful and effective
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:TE:Essay]]
+How would you improve the tutor's use of multilinguality?
+
+[[Block:Group 5, sample 9]]
+
+[[ED:Group_5_Topic_9:backchannel]]
+
+[[ED:Group_5_Language_9:tutor-en]]
+
+[[Question:MC:SingleAnswer:Horizontal]]
+Please read the following fragment of a dialogue between a student learning English as a second language and a teacher. The last teacher response, marked with a bold font, replies to the student's utterance directly above it. The tutor may or may not have used the student's mother tongue in the response. You are asked to evaluate this response.<br><br>
+
+<b>Dialogue Fragment:</b><br>
+STUDENT: what is your name<br>
+TUTOR: my name is Gisela<br>
+STUDENT: nothing special<br>
+TUTOR: nothing special right anything else you wanna know<br>
+STUDENT: no<br>
+<b>Tutor: okay</b><br><br>
+
+The teacher's response is clear.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The tutor's intent in the last response is:
+[[Choices]]
+Translation
+Clarification
+Acknowlegment
+Other
+
+[[Question:TE:Essay]]
+If you chose 'Other', please say what it was.
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The response seems normal in the context of this conversation.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The teacher's response would help me learn English.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:MC:SingleAnswer:Horizontal]]
+I would like my teacher to use responses like this.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:TE:Essay]]
+How would you improve this response?
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The tutor's use of English in the response is helpful and effective
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:TE:Essay]]
+How would you improve the tutor's use of multilinguality?
+
+[[Block:Group 5, sample 10]]
+
+[[ED:Group_5_Topic_10:backchannel]]
+
+[[ED:Group_5_Language_10:tutor-en]]
+
+[[Question:MC:SingleAnswer:Horizontal]]
+Please read the following fragment of a dialogue between a student learning English as a second language and a teacher. The last teacher response, marked with a bold font, replies to the student's utterance directly above it. The tutor may or may not have used the student's mother tongue in the response. You are asked to evaluate this response.<br><br>
+
+<b>Dialogue Fragment:</b><br>
+STUDENT: or or one<br>
+TUTOR: hm<br>
+STUDENT: one half past<br>
+TUTOR: hm and what will you do when you finish<br>
+STUDENT: well I bueno es que estoy saturado<br>
+<b>Tutor: don't worry little by little</b><br><br>
+
+The teacher's response is clear.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The tutor's intent in the last response is:
+[[Choices]]
+Translation
+Clarification
+Acknowlegment
+Other
+
+[[Question:TE:Essay]]
+If you chose 'Other', please say what it was.
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The response seems normal in the context of this conversation.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The teacher's response would help me learn English.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:MC:SingleAnswer:Horizontal]]
+I would like my teacher to use responses like this.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:TE:Essay]]
+How would you improve this response?
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The tutor's use of English in the response is helpful and effective
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:TE:Essay]]
+How would you improve the tutor's use of multilinguality?
+
+[[Block:Group 5, sample 11]]
+
+[[ED:Group_5_Topic_11:topics]]
+
+[[ED:Group_5_Language_11:tutor-en]]
+
+[[Question:MC:SingleAnswer:Horizontal]]
+Please read the following fragment of a dialogue between a student learning English as a second language and a teacher. The last teacher response, marked with a bold font, replies to the student's utterance directly above it. The tutor may or may not have used the student's mother tongue in the response. You are asked to evaluate this response.<br><br>
+
+<b>Dialogue Fragment:</b><br>
+STUDENT: puré de patata hm no it's it's beautiful and chips<br>
+TUTOR: hm<br>
+STUDENT: pollastre<br>
+TUTOR: hm<br>
+STUDENT: hm de tot Una mica<br>
+<b>Tutor: okay good hm Sandra what time did you arrive Auró did you arrive at Auró</b><br><br>
+
+The teacher's response is clear.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The tutor's intent in the last response is:
+[[Choices]]
+Translation
+Clarification
+Acknowlegment
+Other
+
+[[Question:TE:Essay]]
+If you chose 'Other', please say what it was.
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The response seems normal in the context of this conversation.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The teacher's response would help me learn English.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:MC:SingleAnswer:Horizontal]]
+I would like my teacher to use responses like this.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:TE:Essay]]
+How would you improve this response?
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The tutor's use of English in the response is helpful and effective
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:TE:Essay]]
+How would you improve the tutor's use of multilinguality?
+
+[[Block:Group 5, sample 12]]
+
+[[ED:Group_5_Topic_12:backchannel]]
+
+[[ED:Group_5_Language_12:tutor-mixed]]
+
+[[Question:MC:SingleAnswer:Horizontal]]
+Please read the following fragment of a dialogue between a student learning English as a second language and a teacher. The last teacher response, marked with a bold font, replies to the student's utterance directly above it. The tutor may or may not have used the student's mother tongue in the response. You are asked to evaluate this response.<br><br>
+
+<b>Dialogue Fragment:</b><br>
+STUDENT: tretze<br>
+TUTOR: yes okay and the name of this school is this is Ma Ma<br>
+STUDENT: Maragall<br>
+TUTOR: do you like Maragall saps el que the preguntat do you like Maragall school<br>
+STUDENT: linstitut<br>
+<b>Tutor: sí do you like it tagrada</b><br><br>
+
+The teacher's response is clear.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The tutor's intent in the last response is:
+[[Choices]]
+Translation
+Clarification
+Acknowlegment
+Other
+
+[[Question:TE:Essay]]
+If you chose 'Other', please say what it was.
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The response seems normal in the context of this conversation.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The teacher's response would help me learn English.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:MC:SingleAnswer:Horizontal]]
+I would like my teacher to use responses like this.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:TE:Essay]]
+How would you improve this response?
+
+[[Question:MC:SingleAnswer:Horizontal]]
+The tutor's use of student's mother tongue is helpful and effective.
+[[Choices]]
+Strongly disagree
+Somewhat disagree
+Neither agree nor disagree
+Somewhat agree
+Strongly agree
+
+[[Question:TE:Essay]]
+How would you improve the tutor's use of multilinguality?
+

@@ -1,0 +1,320 @@
+{
+    "backchannel": {
+        "tutor-en": [
+            {
+                "Tutor": "don't worry little by little",
+                "Context": [
+                    {
+                        "Speaker": "PAR",
+                        "Turn": "or or one"
+                    },
+                    {
+                        "Speaker": "INV",
+                        "Turn": "hm"
+                    },
+                    {
+                        "Speaker": "PAR",
+                        "Turn": "one half past"
+                    },
+                    {
+                        "Speaker": "INV",
+                        "Turn": "hm and what will you do when you finish"
+                    },
+                    {
+                        "Speaker": "PAR",
+                        "Turn": "well I bueno es que estoy saturado"
+                    }
+                ]
+            },
+            {
+                "Tutor": "homework okay do you watch tv",
+                "Context": [
+                    {
+                        "Speaker": "PAR",
+                        "Turn": "què faig"
+                    },
+                    {
+                        "Speaker": "INV",
+                        "Turn": "uhhuh"
+                    },
+                    {
+                        "Speaker": "PAR",
+                        "Turn": "faig els debers"
+                    },
+                    {
+                        "Speaker": "INV",
+                        "Turn": "els debers homework"
+                    },
+                    {
+                        "Speaker": "PAR",
+                        "Turn": "sí"
+                    }
+                ]
+            }
+        ],
+        "tutor-es": [
+            {
+                "Tutor": "sí sí dime dime",
+                "Context": [
+                    {
+                        "Speaker": "PAR",
+                        "Turn": "for bueno for a for us"
+                    },
+                    {
+                        "Speaker": "INV",
+                        "Turn": "okay però no estudies fora de lescola danglès"
+                    },
+                    {
+                        "Speaker": "PAR",
+                        "Turn": "no no tinc classes"
+                    },
+                    {
+                        "Speaker": "INV",
+                        "Turn": "no tens classes right okay"
+                    },
+                    {
+                        "Speaker": "PAR",
+                        "Turn": "I'd like"
+                    }
+                ]
+            }
+        ],
+        "tutor-mixed": [
+            {
+                "Tutor": "sí do you like it tagrada",
+                "Context": [
+                    {
+                        "Speaker": "PAR",
+                        "Turn": "tretze"
+                    },
+                    {
+                        "Speaker": "INV",
+                        "Turn": "yes okay and the name of this school is this is Ma Ma"
+                    },
+                    {
+                        "Speaker": "PAR",
+                        "Turn": "Maragall"
+                    },
+                    {
+                        "Speaker": "INV",
+                        "Turn": "do you like Maragall saps el que the preguntat do you like Maragall school"
+                    },
+                    {
+                        "Speaker": "PAR",
+                        "Turn": "linstitut"
+                    }
+                ]
+            }
+        ]
+    },
+    "questions": {
+        "tutor-en": [
+            {
+                "Tutor": "yes okay now would you like to ask me any questions",
+                "Context": [
+                    {
+                        "Speaker": "INV",
+                        "Turn": "sixteen okay hm do you sleep in the same bedroom at home do you sleep in the same bedroom at home how many rooms are there in your house how many rooms three four two how many rooms this is a room how many rooms are there in your house and your brother and you sleep together in the same room or do you have separate rooms"
+                    },
+                    {
+                        "Speaker": "PAR",
+                        "Turn": "no separados"
+                    },
+                    {
+                        "Speaker": "INV",
+                        "Turn": "separate rooms okay and how many beds are there in your room how many beds to sleep one one bed"
+                    },
+                    {
+                        "Speaker": "PAR",
+                        "Turn": "sí"
+                    }
+                ]
+            },
+            {
+                "Tutor": "no it's something else I say how old are you where do you live you hadta give the answers now you ask me a question",
+                "Context": [
+                    {
+                        "Speaker": "PAR",
+                        "Turn": "and dos two chair"
+                    },
+                    {
+                        "Speaker": "INV",
+                        "Turn": "two chairs"
+                    },
+                    {
+                        "Speaker": "PAR",
+                        "Turn": "chairs and hm books"
+                    },
+                    {
+                        "Speaker": "INV",
+                        "Turn": "good good hm okay now would you like to ask me any questions be cause I asked you how old are you where do you live"
+                    },
+                    {
+                        "Speaker": "PAR",
+                        "Turn": "més difícils"
+                    }
+                ]
+            }
+        ],
+        "tutor-mixed": [
+            {
+                "Tutor": "I am forty five one more question ask me coses que tagradaria saber de Mi no no no more questions em pots preguntar si hi ha alguna cosa que magradi o que no magradi",
+                "Context": [
+                    {
+                        "Speaker": "ROS",
+                        "Turn": "the sister"
+                    },
+                    {
+                        "Speaker": "INV",
+                        "Turn": "just for your sister now would you like to ask me questions ask me questions now you you ask me what's your name you ask me ara em pots tu fer preguntes a mi"
+                    },
+                    {
+                        "Speaker": "ROS",
+                        "Turn": "ah what's your name"
+                    },
+                    {
+                        "Speaker": "INV",
+                        "Turn": "my name is MariaRosa"
+                    },
+                    {
+                        "Speaker": "ROS",
+                        "Turn": "how old are you"
+                    }
+                ]
+            },
+            {
+                "Tutor": "my name is MariaRosa pots preguntar quants som la meva família sobre què faig de què treballo com és la meva casa com vulguis no amb Les paraules que Tu puguis eh Tu la qüestió és que Jo tentengui arreglatho com puguis va Una pregunta no",
+                "Context": [
+                    {
+                        "Speaker": "PAR",
+                        "Turn": "no"
+                    },
+                    {
+                        "Speaker": "INV",
+                        "Turn": "no what else a television"
+                    },
+                    {
+                        "Speaker": "PAR",
+                        "Turn": "yes"
+                    },
+                    {
+                        "Speaker": "INV",
+                        "Turn": "yes a television okay now would you like to ask me questions now ask me questions Ara em fas Tu preguntes a mi va"
+                    },
+                    {
+                        "Speaker": "PAR",
+                        "Turn": "what's your name"
+                    }
+                ]
+            }
+        ]
+    },
+    "topics": {
+        "tutor-en": [
+            {
+                "Tutor": "hm okay and what time will you finish",
+                "Context": [
+                    {
+                        "Speaker": "PAR",
+                        "Turn": "sí"
+                    },
+                    {
+                        "Speaker": "INV",
+                        "Turn": "okay good okay in what time did you arrive this morning"
+                    },
+                    {
+                        "Speaker": "PAR",
+                        "Turn": "hm espera no sé hm at hm bueno at half past eight"
+                    },
+                    {
+                        "Speaker": "INV",
+                        "Turn": "okay"
+                    },
+                    {
+                        "Speaker": "PAR",
+                        "Turn": "no me acuerdo"
+                    }
+                ]
+            },
+            {
+                "Tutor": "no what time",
+                "Context": [
+                    {
+                        "Speaker": "PAR",
+                        "Turn": "sí"
+                    },
+                    {
+                        "Speaker": "INV",
+                        "Turn": "I see okay what time do you arrive here in the morning Clara"
+                    },
+                    {
+                        "Speaker": "PAR",
+                        "Turn": "er a qué hora me levanto"
+                    },
+                    {
+                        "Speaker": "INV",
+                        "Turn": "no I repeat what time do you arrive here in the morning to the school"
+                    },
+                    {
+                        "Speaker": "PAR",
+                        "Turn": "ah cuánto tardo"
+                    }
+                ]
+            }
+        ],
+        "tutor-es": [
+            {
+                "Tutor": "uhhuh llavors què fas quan acabes lescola",
+                "Context": [
+                    {
+                        "Speaker": "PAR",
+                        "Turn": "ah yes yes"
+                    },
+                    {
+                        "Speaker": "INV",
+                        "Turn": "here at the school"
+                    },
+                    {
+                        "Speaker": "PAR",
+                        "Turn": "sí"
+                    },
+                    {
+                        "Speaker": "INV",
+                        "Turn": "quedes a dinar aquí okay and when you finish at five thirty what will you do then when you finish school"
+                    },
+                    {
+                        "Speaker": "PAR",
+                        "Turn": "hm fifteen hm thirteen thirty fifteen"
+                    }
+                ]
+            }
+        ],
+        "tutor-mixed": [
+            {
+                "Tutor": "okay and how old are you si no me entiendes me lo dices how old are you ten eleven",
+                "Context": [
+                    {
+                        "Speaker": "PAR",
+                        "Turn": "eleven no depèn perquè si fan futbol o no"
+                    },
+                    {
+                        "Speaker": "INV",
+                        "Turn": "in english try in english"
+                    },
+                    {
+                        "Speaker": "PAR",
+                        "Turn": "is the espera a les ten o'clock or half past ten"
+                    },
+                    {
+                        "Speaker": "INV",
+                        "Turn": "so what time what time okay"
+                    },
+                    {
+                        "Speaker": "PAR",
+                        "Turn": "hello"
+                    }
+                ]
+            }
+        ]
+    }
+}
