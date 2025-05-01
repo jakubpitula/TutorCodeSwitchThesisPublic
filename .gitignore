@@ -10,4 +10,4 @@ translated*.txt
 
 # Survey results, contain sensitive information
 
-/Master+Students*/
+/survey_results/

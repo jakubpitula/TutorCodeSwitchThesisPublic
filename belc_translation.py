@@ -26,11 +26,7 @@ master_df = pd.concat(dataframes, ignore_index=True)
 spanish_utts = master_df[master_df["UtteranceLang"] == "spanish/catalan"]
 first_500 = spanish_utts.head(500)
 
-hf_token = "" # Add your Hugging Face token here
-
-pipe = pipeline(
-    "translation", model="facebook/nllb-200-1.3B", token=hf_token, device="cpu"
-)
+pipe = pipeline("translation", model="facebook/nllb-200-1.3B", device="cpu")
 
 with open("translated.txt", "a") as file:
     for i, utt in enumerate(first_500["Utterance"]):
